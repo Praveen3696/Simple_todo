@@ -1,0 +1,21 @@
+/* Write your CSS here */
+li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+button {
+  background-color: #ffffff;
+  border-radius: 6px;
+  border-width: 1px;
+  border-color: #ff0b37;
+  color: #ff0b37;
+  width: 60px;
+  height: 36px;
+}
+p {
+  color: #000000;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
